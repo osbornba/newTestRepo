@@ -1,3 +1,4 @@
+Made changes as part of branch1.
 Changed text in the file after fetch and merge from master.
 Changes made from local repository.
 added text to file2.txt
